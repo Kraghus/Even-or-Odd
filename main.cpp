@@ -16,6 +16,7 @@ int main()
 	else
 		std::cout << num << " is odd.\n";
 
+	// keeps program from closing automatically after printing
 	system("pause");
 
 	return 0;
